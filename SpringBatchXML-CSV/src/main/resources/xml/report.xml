@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<company>
+    <record refId="1001">
+        <name>Marcos</name>
+        <age>38</age>
+        <dob>31/8/1979</dob>
+        <income>300,000</income>
+    </record>
+    <record refId="1002">
+        <name>Cris</name>
+        <age>32</age>
+        <dob>20/3/1983</dob>
+        <income>200,349</income>
+    </record>
+    <record refId="1003">
+        <name>Peter</name>
+        <age>29</age>
+        <dob>23/9/1987</dob>
+        <income>30,000,000</income>
+    </record>
+    <record refId="1004">
+        <name>Robert</name>
+        <age>29</age>
+        <dob>21/3/1984</dob>
+        <income>59,333.64</income>
+    </record>
+</company>
